@@ -13,8 +13,8 @@
 		971922E61C6D66C1000987B8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 971922E41C6D66C1000987B8 /* Main.storyboard */; };
 		971922E81C6D66C1000987B8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 971922E71C6D66C1000987B8 /* Assets.xcassets */; };
 		971922EB1C6D66C1000987B8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 971922E91C6D66C1000987B8 /* LaunchScreen.storyboard */; };
-		971922F61C6D66C1000987B8 /* Ninja_Flip_Run Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 971922F51C6D66C1000987B8 /* Ninja_Flip_Run Tests.swift */; };
-		971923011C6D66C1000987B8 /* Ninja_Flip_RunUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 971923001C6D66C1000987B8 /* Ninja_Flip_RunUITests.swift */; };
+		971922F61C6D66C1000987B8 /* Jump Man Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 971922F51C6D66C1000987B8 /* Jump Man Tests.swift */; };
+		971923011C6D66C1000987B8 /* Jump ManUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 971923001C6D66C1000987B8 /* Jump ManUITests.swift */; };
 		9719230F1C6D7FE5000987B8 /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9719230E1C6D7FE5000987B8 /* GameScene.swift */; };
 		971923111C6D878E000987B8 /* CSMovingGround.swift in Sources */ = {isa = PBXBuildFile; fileRef = 971923101C6D878E000987B8 /* CSMovingGround.swift */; };
 		971923131C6D9236000987B8 /* CSHero.swift in Sources */ = {isa = PBXBuildFile; fileRef = 971923121C6D9236000987B8 /* CSHero.swift */; };
@@ -44,7 +44,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		971922DB1C6D66C1000987B8 /* Ninja Flip Run.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Ninja Flip Run.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		971922DB1C6D66C1000987B8 /* Jump Man.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Jump Man.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		971922DE1C6D66C1000987B8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		971922E01C6D66C1000987B8 /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
 		971922E21C6D66C1000987B8 /* GameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
@@ -52,11 +52,11 @@
 		971922E71C6D66C1000987B8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		971922EA1C6D66C1000987B8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		971922EC1C6D66C1000987B8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		971922F11C6D66C1000987B8 /* Ninja Flip Run.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Ninja Flip Run.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		971922F51C6D66C1000987B8 /* Ninja_Flip_Run Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Ninja_Flip_Run Tests.swift"; sourceTree = "<group>"; };
+		971922F11C6D66C1000987B8 /* Jump Man.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Jump Man.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		971922F51C6D66C1000987B8 /* Jump Man Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Jump Man Tests.swift"; sourceTree = "<group>"; };
 		971922F71C6D66C1000987B8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		971922FC1C6D66C1000987B8 /* Ninja Flip Run.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Ninja Flip Run.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		971923001C6D66C1000987B8 /* Ninja_Flip_RunUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ninja_Flip_RunUITests.swift; sourceTree = "<group>"; };
+		971922FC1C6D66C1000987B8 /* Jump Man.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Jump Man.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		971923001C6D66C1000987B8 /* Jump ManUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Jump ManUITests.swift"; sourceTree = "<group>"; };
 		971923021C6D66C1000987B8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9719230E1C6D7FE5000987B8 /* GameScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; };
 		971923101C6D878E000987B8 /* CSMovingGround.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CSMovingGround.swift; sourceTree = "<group>"; };
@@ -97,8 +97,8 @@
 		971922D21C6D66C1000987B8 = {
 			isa = PBXGroup;
 			children = (
-				971922DD1C6D66C1000987B8 /* Ninja Flip Run */,
-				971922F41C6D66C1000987B8 /* Ninja Flip RunTests */,
+				971922DD1C6D66C1000987B8 /* Jump Man */,
+				971922F41C6D66C1000987B8 /* Jump ManTests */,
 				971922FF1C6D66C1000987B8 /* Ninja Flip RunUITests */,
 				971922DC1C6D66C1000987B8 /* Products */,
 			);
@@ -107,14 +107,14 @@
 		971922DC1C6D66C1000987B8 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				971922DB1C6D66C1000987B8 /* Ninja Flip Run.app */,
-				971922F11C6D66C1000987B8 /* Ninja Flip Run.xctest */,
-				971922FC1C6D66C1000987B8 /* Ninja Flip Run.xctest */,
+				971922DB1C6D66C1000987B8 /* Jump Man.app */,
+				971922F11C6D66C1000987B8 /* Jump Man.xctest */,
+				971922FC1C6D66C1000987B8 /* Jump Man.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		971922DD1C6D66C1000987B8 /* Ninja Flip Run */ = {
+		971922DD1C6D66C1000987B8 /* Jump Man */ = {
 			isa = PBXGroup;
 			children = (
 				971922DE1C6D66C1000987B8 /* AppDelegate.swift */,
@@ -132,25 +132,26 @@
 				971922E91C6D66C1000987B8 /* LaunchScreen.storyboard */,
 				971922EC1C6D66C1000987B8 /* Info.plist */,
 			);
-			path = "Ninja Flip Run";
+			path = "Jump Man";
 			sourceTree = "<group>";
 		};
-		971922F41C6D66C1000987B8 /* Ninja Flip RunTests */ = {
+		971922F41C6D66C1000987B8 /* Jump ManTests */ = {
 			isa = PBXGroup;
 			children = (
-				971922F51C6D66C1000987B8 /* Ninja_Flip_Run Tests.swift */,
+				971922F51C6D66C1000987B8 /* Jump Man Tests.swift */,
 				971922F71C6D66C1000987B8 /* Info.plist */,
 			);
-			path = "Ninja Flip RunTests";
+			path = "Jump ManTests";
 			sourceTree = "<group>";
 		};
 		971922FF1C6D66C1000987B8 /* Ninja Flip RunUITests */ = {
 			isa = PBXGroup;
 			children = (
-				971923001C6D66C1000987B8 /* Ninja_Flip_RunUITests.swift */,
+				971923001C6D66C1000987B8 /* Jump ManUITests.swift */,
 				971923021C6D66C1000987B8 /* Info.plist */,
 			);
-			path = "Ninja Flip RunUITests";
+			name = "Ninja Flip RunUITests";
+			path = "Jump ManUITests";
 			sourceTree = "<group>";
 		};
 		9719231A1C6F9F1E000987B8 /* Cloud Generation */ = {
@@ -188,7 +189,7 @@
 			);
 			name = "Jumping Man";
 			productName = "Jumping Man";
-			productReference = 971922DB1C6D66C1000987B8 /* Ninja Flip Run.app */;
+			productReference = 971922DB1C6D66C1000987B8 /* Jump Man.app */;
 			productType = "com.apple.product-type.application";
 		};
 		971922F01C6D66C1000987B8 /* Jumping ManTests */ = {
@@ -206,7 +207,7 @@
 			);
 			name = "Jumping ManTests";
 			productName = "Jumping ManTests";
-			productReference = 971922F11C6D66C1000987B8 /* Ninja Flip Run.xctest */;
+			productReference = 971922F11C6D66C1000987B8 /* Jump Man.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 		971922FB1C6D66C1000987B8 /* Jumping ManUITests */ = {
@@ -224,7 +225,7 @@
 			);
 			name = "Jumping ManUITests";
 			productName = "Jumping ManUITests";
-			productReference = 971922FC1C6D66C1000987B8 /* Ninja Flip Run.xctest */;
+			productReference = 971922FC1C6D66C1000987B8 /* Jump Man.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -253,7 +254,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 971922D61C6D66C1000987B8 /* Build configuration list for PBXProject "Ninja Flip Run" */;
+			buildConfigurationList = 971922D61C6D66C1000987B8 /* Build configuration list for PBXProject "Jump Man" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -324,7 +325,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				971922F61C6D66C1000987B8 /* Ninja_Flip_Run Tests.swift in Sources */,
+				971922F61C6D66C1000987B8 /* Jump Man Tests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -332,7 +333,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				971923011C6D66C1000987B8 /* Ninja_Flip_RunUITests.swift in Sources */,
+				971923011C6D66C1000987B8 /* Jump ManUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -459,7 +460,7 @@
 				INFOPLIST_FILE = "$(SRCROOT)/Ninja Flip Run/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.CMSDevelopment.Jumping-Man";
-				PRODUCT_NAME = "Ninja Flip Run";
+				PRODUCT_NAME = "Jump Man";
 				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
@@ -471,7 +472,7 @@
 				INFOPLIST_FILE = "$(SRCROOT)/Ninja Flip Run/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.CMSDevelopment.Jumping-Man";
-				PRODUCT_NAME = "Ninja Flip Run";
+				PRODUCT_NAME = "Jump Man";
 				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
@@ -484,8 +485,8 @@
 				INFOPLIST_FILE = "Ninja Flip Run/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.CMSDevelopment.Jumping-ManTests";
-				PRODUCT_NAME = "Ninja Flip Run";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Ninja Flip Run.app/Jumping Man";
+				PRODUCT_NAME = "Jump Man";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Jump Man.app/Jumping Man";
 			};
 			name = Debug;
 		};
@@ -496,8 +497,8 @@
 				INFOPLIST_FILE = "Ninja Flip Run/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.CMSDevelopment.Jumping-ManTests";
-				PRODUCT_NAME = "Ninja Flip Run";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Ninja Flip Run.app/Jumping Man";
+				PRODUCT_NAME = "Jump Man";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Jump Man.app/Jumping Man";
 			};
 			name = Release;
 		};
@@ -508,7 +509,7 @@
 				INFOPLIST_FILE = "Ninja Flip RunUITests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.CMSDevelopment.Jumping-ManUITests";
-				PRODUCT_NAME = "Ninja Flip Run";
+				PRODUCT_NAME = "Jump Man";
 				TEST_TARGET_NAME = "Ninja Flip Run";
 				USES_XCTRUNNER = YES;
 			};
@@ -520,7 +521,7 @@
 				INFOPLIST_FILE = "Ninja Flip RunUITests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.CMSDevelopment.Jumping-ManUITests";
-				PRODUCT_NAME = "Ninja Flip Run";
+				PRODUCT_NAME = "Jump Man";
 				TEST_TARGET_NAME = "Ninja Flip Run";
 				USES_XCTRUNNER = YES;
 			};
@@ -529,7 +530,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		971922D61C6D66C1000987B8 /* Build configuration list for PBXProject "Ninja Flip Run" */ = {
+		971922D61C6D66C1000987B8 /* Build configuration list for PBXProject "Jump Man" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				971923031C6D66C1000987B8 /* Debug */,

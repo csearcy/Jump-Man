@@ -1,6 +1,6 @@
 //
-//  Ninja_Flip_Run.swift
-//  Ninja Flip RunTests
+//  Jump_Man.swift
+//  Jump_ManTests
 //
 //  Created by Chris Searcy on 2/11/16.
 //  Copyright © 2016 Chris Searcy. All rights reserved.
